@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "learn-sp-fx-client-side-solution",
+    "id": "21463b59-7650-4e1d-a8bc-b33c09a2b6d3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "learn-sp-fx description"
+      },
+      "longDescription": {
+        "default": "learn-sp-fx description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "learn-sp-fx Feature",
+        "description": "The feature that activates elements of the learn-sp-fx solution.",
+        "id": "837b7488-dd50-4d1e-a8c2-c0cae7c2d703",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/learn-sp-fx.sppkg"
+  }
+}
