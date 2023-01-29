@@ -1,1 +1,1 @@
-# LearnSPFx
+# Learn SPFx
